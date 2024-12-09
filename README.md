@@ -1,1 +1,1 @@
-# Booksky
+Booksky - A platform dedicated to book enthusiasts everywhere. Booksky is designed to provide a seamless and engaging experience for discovering and sharing books. Whether you're an avid reader or a casual browser.
